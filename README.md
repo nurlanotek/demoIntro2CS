@@ -1,6 +1,10 @@
 # demoIntro2CS
+Project title:
+Demo GitHub repository for the Class "Introduction to CS"
 
-Repository is created for demo purposes.
+Project description:
+Repository is created for demo purposes and would be used to demonstrate the capabilities
+of the git VCS.
 
 Author: Nurlan Sh.
 Email: nurlanotek@gmail.com
