@@ -4,6 +4,7 @@ public class HelloWorld {
 
     printRangeOfNumbers(3, 10);
     printRangeOfNumbersBackWards(3, 10);
+    printRangeOfNumbers(50, 10);
   }
 
   public static void printRangeOfNumbers(int start, int end){
