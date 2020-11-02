@@ -10,3 +10,4 @@ Author: Nurlan Sh.
 Email: nurlanotek@gmail.com
 
 Date:02.10.2020
+Today is Monday
