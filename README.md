@@ -17,3 +17,4 @@ Collaborators:
 2. Bermet Burkanova
 3. Nurlan Nogoibaev
 4. Murod Qoimdodov
+5. Manuchekhr Makhsutshoev
