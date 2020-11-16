@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # demoIntro2CS
 Project title:
 Demo GitHub repository for the Class "Introduction to CS"
@@ -22,4 +23,6 @@ Collaborators:
 5. Manuchekhr Makhsutshoev
 
 6. Sear Ahmad
+
+7.Abdul Hakim
 
