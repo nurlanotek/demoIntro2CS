@@ -5,6 +5,18 @@ public class Person {
     private String email;
     private String password;
 
+    public Person() {
+    }
+
+    public Person(String firstName) {
+        this.firstName = firstName;
+    }
+
+    public Person(String firstName, String email) {
+        this.firstName = firstName;
+        this.email = email;
+    }
+
     @Override
     public String toString() {
         return "Person{" +
