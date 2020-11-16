@@ -14,3 +14,4 @@ Today is Monday and it's almost evening.
 
 Collaborators:
 1. Nurlan Shaidullaev
+2. Bermet Burkanova
