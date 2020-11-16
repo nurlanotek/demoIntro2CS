@@ -18,15 +18,10 @@ Collaborators:
 2. Bermet Burkanova
 3. Nurlan Nogoibaev
 4. Murod Qoimdodov
-5.Murodali Sharipov
-4.Murodali Sharipov
-5. Manuchekhr Makhsutshoev
-
-6. Sear Ahmad
-
-7.Abdul Hakim
-
-8.Beknazar Jumabaev
-
-
+5. Murodali Sharipov
+6. Manuchekhr Makhsutshoev
+7. Sear Ahmad
+8.Abdul Hakim
+9.Beknazar Jumabaev
+10.Gulmeeri
 
