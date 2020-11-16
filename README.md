@@ -11,3 +11,6 @@ Email: nurlanotek@gmail.com
 
 Date:02.10.2020
 Today is Monday and it's almost evening.
+
+Collaborators:
+1. Nurlan Shaidullaev
