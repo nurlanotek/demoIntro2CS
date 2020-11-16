@@ -17,4 +17,8 @@ Collaborators:
 2. Bermet Burkanova
 3. Nurlan Nogoibaev
 4. Murod Qoimdodov
+5.Murodali Sharipov
 4.Murodali Sharipov
+=======
+5. Manuchekhr Makhsutshoev
+>>>>>>> 30cb4db294fa2a743ed822eda0e73376a3403714
