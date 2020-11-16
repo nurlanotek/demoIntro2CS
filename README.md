@@ -14,7 +14,7 @@ Date:02.10.2020
 Today is Monday and it's almost evening.
 
 Collaborators:
-1. Nurlan Shaidullaev
+1. Nurlan Shaidullaev - Person class is implemented.
 2. Bermet Burkanova
 3. Nurlan Nogoibaev
 4. Murod Qoimdodov
