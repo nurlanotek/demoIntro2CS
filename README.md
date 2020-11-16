@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # demoIntro2CS
 Project title:
 Demo GitHub repository for the Class "Introduction to CS"
@@ -27,7 +27,10 @@ Collaborators:
 7.Abdul Hakim
 
 
+
 8.Beknazar Juamabaev
 
 8.Beknazar Jumabaev
+
+
 
