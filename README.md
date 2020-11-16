@@ -18,4 +18,3 @@ Collaborators:
 3. Nurlan Nogoibaev
 4. Murod Qoimdodov
 5. Manuchekhr Makhsutshoev
-6. test
