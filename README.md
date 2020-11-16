@@ -1,2 +1,2 @@
 7.Abdul Hakim
-Beknazar Jumabaev
+8.Beknazar Jumabaev
